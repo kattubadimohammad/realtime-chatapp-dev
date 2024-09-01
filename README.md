@@ -32,7 +32,7 @@
 </ol>
 
 # User 1: Mohammad K
-![Chat Screenshot](https://github.com/kattubadimohammad/realtime-chatapp-dev/raw/main/images/chat1.jpg)
+![Chat Screenshot](https://github.com/kattubadimohammad/realtime-chatapp-dev/blob/my-new-branch/images/chat1.png)
 
 # User 2: Veeresh K
-![Chat Screenshot](https://github.com/kattubadimohammad/realtime-chatapp-dev/raw/main/images/chat2.jpg)
+![Chat Screenshot](https://github.com/kattubadimohammad/realtime-chatapp-dev/blob/my-new-branch/images/chat2.png)
