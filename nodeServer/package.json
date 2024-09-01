@@ -1,15 +1,19 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "This is a node Server for LetsChat Application",
+  "description": "This is a node server for LetsChat Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "build": "echo 'No build step required'"
   },
-  "author": "Mayank Chaudhary",
+  "author": "K Mohammad",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.4",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=14.x"
   }
 }
